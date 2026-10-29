@@ -2,5 +2,6 @@
 My first repository
 # FAVORITE SERIES/MOVIE
 - While you were sleeping
-- Owari no seraph of the end
+- Seraph of the end
 - Witch hat atelier
+- She's dating a gangster
